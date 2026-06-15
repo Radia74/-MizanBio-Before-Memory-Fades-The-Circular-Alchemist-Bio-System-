@@ -7,10 +7,8 @@
 
 ---
 
-## 🎬 1. Experience Our Mission (Interactive Web Story)
-*The architecture of this project is vast, so we programmed an interactive HTML storytelling experience to preview the human essence of MizanBio.*
 
-🚀 **[Click here to check the `mizanbio_script_final.html` source file in this repository!](./mizanbio_script_final.html)**
+
 
 ---
 
