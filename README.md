@@ -7,8 +7,10 @@
 
 ---
 
+## 🎬 1. Experience Our Mission (Interactive Web Story)
+*The architecture of this project is vast, so we programmed an interactive HTML storytelling experience to preview the human essence of MizanBio.*
 
-
+🔗 [Click here to watch the full Video and experience the audio on LinkedIn!](https://www.linkedin.com/posts/your-username-mizanbio...)
 
 ---
 
