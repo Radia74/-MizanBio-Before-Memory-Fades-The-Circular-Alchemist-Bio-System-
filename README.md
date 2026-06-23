@@ -26,6 +26,20 @@ $$H_{Recovery} = \int \left( \frac{P_{Tayyibat}}{B_{Metabolic} + I_{Inflammation
 * **Smart IoT Simulator:** Tracks continuous biomarkers (HRV, hydration, ketones).
 * **Predictive AI (XGBoost):** Analyzes early cellular degradation trends (p-tau217 & mTOR).
 * **Pentagram Alchemy Radar:** A responsive visual UI showing real-time organ balance.
+Below is the conceptual data flow of how these components interact:
+
+graph TD
+    %% Inputs
+    A[Pure Inputs: Tayyibat] --> D{Mizan AI Core}
+    B[IoT Sensors: HRV, Ketones] --> D
+
+    %% Processing Engine
+    D -->|Predictive Analysis| E[XGBoost Model: p-tau217 & mTOR]
+    E -->|Calculate Homeostasis| F[Integration Equation dt]
+
+    %% Outputs & UI
+    F -->|Real-time Balance| G[Pentagram Alchemy Radar UI]
+    G -->|Neuroprotection| H((Proactive Recovery))
 
 ---
 ## 📌 Current Development Status
