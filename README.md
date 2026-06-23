@@ -56,6 +56,6 @@ graph TD
 
 Phase: Data Validation & Predictive Model Refining.
 
-IP Notice: To protect proprietary ML architecture and sensitive biomedical data structures, the source code is currently kept Private during this research validation stage.
+IP Notice: To protect proprietary ML architecture and sensitive biomedical data structures, the source code is currently kept private during this research validation stage.
 
 MizanBio: Insight Before Memory Fades.
