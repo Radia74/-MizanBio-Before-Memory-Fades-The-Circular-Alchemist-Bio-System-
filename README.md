@@ -2,10 +2,14 @@
 
 > **The Circular Alchemist Bio-System** — A Cyber-Biological Approach to Neuroprotection
 
-[![Status](https://img.shields.io/badge/Status-Research%20%26%20Validation-blue?style=for-the-badge)](https://github.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](./LICENSE)
-[![AI](https://img.shields.io/badge/AI-XGBoost%20%7C%20Predictive%20ML-green?style=for-the-badge)](https://github.com/)
-[![Mission](https://img.shields.io/badge/Mission-Alzheimer's%20Prevention-purple?style=for-the-badge)](https://github.com/)
+<div align="center">
+
+[![Status](https://img.shields.io/badge/Status-Research%20%26%20Validation-blue?style=for-the-badge)](https://github.com/Ao_Anker-Intelligence-Lab)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#-license)
+[![AI](https://img.shields.io/badge/AI-XGBoost%20%7C%20Predictive%20ML-green?style=for-the-badge)](https://github.com/Ao_Anker-Intelligence-Lab)
+[![Mission](https://img.shields.io/badge/Mission-Alzheimer's%20Prevention-purple?style=for-the-badge)](https://github.com/Ao_Anker-Intelligence-Lab)
+
+</div>
 
 ---
 
@@ -22,7 +26,6 @@
 ## 🎬 Experience Our Mission
 
 > The architecture of this project is vast, so we built an **interactive HTML storytelling experience** to preview the human essence of MizanBio.
-
 🔗 **[Watch the full Video & experience the audio on LinkedIn](https://linkedin.com)**
 
 ---
@@ -42,7 +45,6 @@ Neurodegenerative risks (**Alzheimer's**) and neurodevelopmental shifts (**Autis
 By restoring **"Pentagram Harmony"** and tracking pure biological inputs (*Tayyibat*), the system enables **proactive self-restoration**.
 
 ### The Five Pillars of Pentagram Harmony
-
 ```
         🧠 Brain
            ▲
@@ -59,12 +61,13 @@ By restoring **"Pentagram Harmony"** and tracking pure biological inputs (*Tayyi
 
 ## 🔬 Predictive Health Architecture
 
-Inspired by the holistic clinical research of **Dr. Diaa Al-Awadhi**, MizanBio integrates advanced mathematical modeling to calculate homeostasis recovery and optimal biological response rates.
+Inspired by the pivotal clinical research of the late **Dr. Diaa Al-Awadhi** on the Gut-Brain Axis, MizanBio integrates advanced mathematical modeling developed by **Ao_Anker Intelligence Lab** to calculate homeostasis recovery and optimal biological response rates.
 
-By quantifying pure biological inputs (*Tayyibat*) against accumulated metabolic debt and neuroinflammation metrics, the system models real-time cellular recovery — shifting healthcare from reactive management to **proactive neuroprotection**.
+By quantifying pure biological inputs (*Tayyibat*) against accumulated metabolic debt, hepatic ammonia overload ($\text{NH}_3$), and neuroinflammation metrics, the system models real-time cellular recovery — shifting healthcare from reactive management to **proactive neuroprotection**.
 
 ---
 
+```mermaid
 graph TD
     %% Inputs
     A[🌿 Pure Inputs: Tayyibat] --> D{⚙️ Mizan AI Core}
@@ -77,6 +80,7 @@ graph TD
     %% Outputs & UI
     F -->|Real-time Balance| G[🕸️ Pentagram Alchemy Radar UI]
     G -->|Neuroprotection| H((✅ Proactive Recovery))
+
 ## 📊 Key Biomarkers Tracked
 
 ```
