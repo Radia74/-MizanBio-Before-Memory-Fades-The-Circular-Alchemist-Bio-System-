@@ -80,9 +80,9 @@ graph TD
     %% Outputs & UI
     F -->|Real-time Balance| G[🕸️ Pentagram Alchemy Radar UI]
     G -->|Neuroprotection| H((✅ Proactive Recovery))
+```
 
 ## 📊 Key Biomarkers Tracked
-
 ```
 📡 IoT Inputs               🧬 Biological Targets
 ─────────────────           ──────────────────────
