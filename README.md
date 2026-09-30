@@ -57,38 +57,14 @@ By restoring **"Pentagram Harmony"** and tracking pure biological inputs (*Tayyi
 
 ---
 
-## 🧮 The Homeostasis Recovery Equation
+## 🔬 Predictive Health Architecture
 
-Inspired by the holistic clinical research of **Dr. Diaa Al-Awadhi**, we engineered a predictive mathematical model:
+Inspired by the holistic clinical research of **Dr. Diaa Al-Awadhi**, MizanBio integrates advanced mathematical modeling to calculate homeostasis recovery and optimal biological response rates.
 
-$$H_{Recovery} = \int \frac{P_{Tayyibat}}{B_{Metabolic} + I_{Inflammation}} \, dt$$
-
-| Variable | Meaning |
-|----------|---------|
-| `P_Tayyibat` | Quality score of pure biological inputs |
-| `B_Metabolic` | Accumulated metabolic debt |
-| `I_Inflammation` | Neuroinflammation index |
-| `H_Recovery` | Predicted homeostasis recovery rate |
-
-High-quality inputs reduce metabolic debt and neuroinflammation over time — shifting the body from reactive disease management to **proactive neuroprotection**.
+By quantifying pure biological inputs (*Tayyibat*) against accumulated metabolic debt and neuroinflammation metrics, the system models real-time cellular recovery — shifting healthcare from reactive management to **proactive neuroprotection**.
 
 ---
 
-## 🛠️ Technical Architecture — "The Assistive Brain"
-
-The cyber-biological feedback loop processes metabolic inputs and translates them into proactive neuroprotection through **three core components**:
-
-### Components
-
-| Component | Function |
-|-----------|----------|
-| 🔌 **Smart IoT Simulator** | Tracks continuous biomarkers: HRV, hydration, ketones |
-| 🤖 **Predictive AI (XGBoost)** | Analyzes early cellular degradation trends: p-tau217 & mTOR |
-| 🕸️ **Pentagram Alchemy Radar** | Responsive visual UI showing real-time organ balance |
-
-### Data Flow
-
-```mermaid
 graph TD
     %% Inputs
     A[🌿 Pure Inputs: Tayyibat] --> D{⚙️ Mizan AI Core}
@@ -96,15 +72,11 @@ graph TD
 
     %% Processing Engine
     D -->|Predictive Analysis| E[🤖 XGBoost Model: p-tau217 & mTOR]
-    E -->|Calculate Homeostasis| F[🧮 Integration Equation ∫dt]
+    E -->|Predictive Intelligence| F[🧮 Proprietary Homeostasis Engine]
 
     %% Outputs & UI
     F -->|Real-time Balance| G[🕸️ Pentagram Alchemy Radar UI]
     G -->|Neuroprotection| H((✅ Proactive Recovery))
-```
-
----
-
 ## 📊 Key Biomarkers Tracked
 
 ```
@@ -135,7 +107,8 @@ Phase 5 🔜  Open Research Publication
 
 > **Phase:** Data Validation & Predictive Model Refining
 
-> ⚠️ **IP Notice:** To protect proprietary ML architecture and sensitive biomedical data structures, the source code is currently **kept private** during this research validation stage.
+> ⚠️ **IP Notice:** To protect proprietary ML architecture and sensitive biomedical data structures, the source code and underlying formulas are currently kept private during this research validation stage.
+
 
 ---
 
@@ -151,7 +124,7 @@ This project builds upon:
 
 ## 🤝 Collaboration & Contact
 
-MizanBio is a research-stage project. We welcome:
+MizanBio is a research-stage project developed under **Ao_Anker Intelligence Lab**. We welcome:
 - 🧪 Clinical researchers in neuroscience & metabolic medicine
 - 📊 Data scientists specializing in biomedical ML
 - 🏥 Healthcare institutions for pilot programs
@@ -159,12 +132,13 @@ MizanBio is a research-stage project. We welcome:
 
 > 📬 **Interested in collaborating?** [Open an Issue](https://github.com/) or reach out via [LinkedIn](https://linkedin.com).
 
+
 ---
 
 ## 📄 License
 
 This project is **proprietary and not open-source** at this stage.  
-All rights reserved © MizanBio Research Team.
+All rights reserved © Ao_Anker Intelligence Lab / MizanBio Research Team.
 
 ---
 
